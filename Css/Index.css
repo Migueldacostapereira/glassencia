@@ -1,0 +1,154 @@
+Body {
+  background-color: #e4a491;
+  margin: 0;
+  padding: 0;
+}
+.pri1 {
+  width: 1000px;
+  height: 2000px;
+  background-color: aliceblue;
+  margin: auto;
+}
+.nav1 {
+  width: 1000px;
+  height: 100px;
+  font-family: "Pathway Extreme", sans-serif;
+  align-items: center;
+  justify-content: center;
+}
+.img1 {
+  width: 1000px;
+  height: 500px;
+  background-color: beige;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+.bar1 {
+  width: 1000px;
+  height: 200px;
+  background-color: white;
+  color: black;
+  font-size: 30px;
+  font-family: "Pathway Extreme", sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.bar2 {
+  width: 1000px;
+  height: 200px;
+  background-color: darkblue;
+  color: white;
+  font-size: 30px;
+  font-family: "Pathway Extreme", sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.bar3 {
+  width: 1000px;
+  height: 400px;
+  background-color: white;
+  color: black;
+  font-size: 20px;
+  font-family: "Pathway Extreme", sans-serif;
+  justify-content: space-around;
+  align-items: center;
+}
+.prod {
+  width: 1000px;
+  height: 500px;
+}
+.redes {
+  width: 1000px;
+  height: 300px;
+  display: flex;
+  background-color: darkblue;
+  font-family: "Pathway Extreme", sans-serif;
+  color: white;
+}
+.rede {
+  margin-top: 180px;
+  margin-right: 10px;
+}
+.traço {
+  width: 5px;
+  height: 200px;
+  margin-top: 100px;
+  background-color: black;
+}
+.sob {
+  margin-top: 100px;
+  margin-left: 30px;
+}
+.faq {
+  margin-top: 170px;
+  margin-left: -190px;
+}
+.sup {
+  margin-top: 240px;
+  margin-left: -70px;
+}
+.barra {
+  width: 1000px;
+  height: 100px;
+  background-color: white;
+  font-family: "Pathway Extreme", sans-serif;
+}
+.ico1 {
+  width: 220px;
+  margin-top: 50px;
+}
+.ico2 {
+  width: 200px;
+  margin-left: 250px;
+  margin-top: -350px;
+}
+.ico3 {
+  width: 200px;
+  margin-left: 500px;
+  margin-top: -280px;
+}
+.ico4 {
+  width: 200px;
+  margin-left: 750px;
+  margin-top: -280px;
+}
+.txt1 {
+  margin-left: 5px;
+}
+.txt2 {
+  margin-left: 250px;
+  margin-top: -108px;
+}
+.txt3 {
+  margin-left: 530px;
+  margin-top: -75px;
+}
+.txt4 {
+  margin-left: 750px;
+  margin-top: -75px;
+}
+a{
+  font-size: 50px;
+  text-decoration: underline;
+  color: white;
+  margin-top: 50px;
+  margin-left: 10px;
+  
+}
+.a{
+  font-size: 50px;
+  text-decoration: underline;
+  color: white;
+  margin-top: 130px;
+  margin-left: -240px;
+}
+.a1{
+  font-size: 50px;
+  text-decoration: underline;
+  color: white;
+  margin-top: 210px;
+  margin-left: -90px;
+}
